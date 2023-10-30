@@ -4,7 +4,7 @@ int main()
 {
     int i, j;
     char word[50];
-    char str[50] = "Malav Patel";
+    char str[50] = "Ayush Modi";
     int len1 = 1;
     int count = 1;
     for (i = 0; str[i] != '\0'; i++)
@@ -15,6 +15,6 @@ int main()
         }
     }
     printf("no. of words %d\n", count);
-    printf("Malav Patel\n");
-    printf("2303031057065");
+    printf("Ayush Modi\n");
+    printf("2303031057006");
 }
