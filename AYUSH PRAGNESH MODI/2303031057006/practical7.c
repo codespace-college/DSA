@@ -16,5 +16,5 @@ int main()
     }
     printf("no. of words %d\n", count);
     printf("Ayush Modi\n");
-    printf("2303031057006");
+    printf("2303031057006\n");
 }
