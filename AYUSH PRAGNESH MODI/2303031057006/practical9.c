@@ -4,7 +4,7 @@ int main()
 {
     // char str[10];
     char str1[100] = "aeibc";
-    char str2[100] = "my nam";
+    char str2[100] = "my name";
     int i, n;
     int count = 0;
     int count2 = 0;
@@ -23,5 +23,5 @@ int main()
     }
     printf("consonants is %d \n", count);
     printf("Vowels is %d \n", count3);
-    printf("Malav Patel\n");
+    printf("Ayush Modi\n");
 }
